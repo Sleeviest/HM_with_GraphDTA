@@ -1,0 +1,20 @@
+Supplementary Methods S1. Computational Environment
+
+All preprocessing, network construction, and post-processing analyses were conducted in Python within a Jupyter Notebook environment.
+
+Hardware:
+- CPU: AMD Ryzen 7 9800X3D
+- GPU: NVIDIA RTX 5080
+- RAM: 32 GB
+
+Software:
+- OS: Windows 11
+- Python: 3.12.10
+- PyTorch: 2.12.0.dev20260223+cu128
+- PyTorch Geometric: 2.7.0
+- RDKit: 2025.09.5
+- pandas: 3.0.1
+- numpy: 2.3.5
+- Cytoscape: 3.10.3
+
+GraphDTA training was performed using the GINConvNet architecture on the Davis benchmark dataset. The training set was split into training and validation subsets at an 8:2 ratio with a fixed random seed of 42. Early stopping with patience = 30 was applied. The best model was obtained at epoch 155, and training terminated at epoch 185.

@@ -1,0 +1,5 @@
+GraphDTA_pairs	36
+Unique_compounds	11
+Unique_targets	32
+Axis_pairs	3
+Axis_targets	2

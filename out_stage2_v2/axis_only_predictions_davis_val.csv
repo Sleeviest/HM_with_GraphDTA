@@ -1,0 +1,4 @@
+PubChem_CID,label,gene_symbol,protein_id,Canonical_SMILES,combined_score,axis_tag,pred_davis
+137,isorhamnetin,HMOX1,9606.ENSP00000216117,COc1cc(-c2oc3cc(O)cc(O)c3c(=O)c2O)ccc1O,861,Iron_axis,4.491257
+5280961,"5,7,4'-trihydroxyisoflavone",HMOX1,9606.ENSP00000216117,O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12,839,Iron_axis,4.465668
+5280961,"5,7,4'-trihydroxyisoflavone",GDF15,9606.ENSP00000252809,O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12,837,Iron_axis,4.5471296

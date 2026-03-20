@@ -1,0 +1,44 @@
+id	display_name	node_type	axis_tag
+(3R)-2'-hydroxy-7,3',4'-trimethoxyisoflavan	(3R)-2'-hydroxy-7,3',4'-trimethoxyisoflavan	compound	
+(6aR,11aR)-10-hydroxy-3,9-dimethoxypterocarpan	(6aR,11aR)-10-hydroxy-3,9-dimethoxypterocarpan	compound	
+(6aR,11aR)-3-hydroxy-9,10-dimethoxypterocarpan-3-O-β-D-sambubioside	(6aR,11aR)-3-hydroxy-9,10-dimethoxypterocarpan-3-O-β-D-sambubioside	compound	
+10-hydroxy-3,9-dimethoxypterocarpan	10-hydroxy-3,9-dimethoxypterocarpan	compound	
+5,7,4'-trihydroxyisoflavone	5,7,4'-trihydroxyisoflavone	compound	
+6''-O-acetyl-(3R)-7,2'-dihydroxy-3',4'-dimethoxyisoflavan-7-O-β-D-glucopyranoside	6''-O-acetyl-(3R)-7,2'-dihydroxy-3',4'-dimethoxyisoflavan-7-O-β-D-glucopyranoside	compound	
+8,3'-dihydroxy-7,4'-dimethoxy-isoflavone	8,3'-dihydroxy-7,4'-dimethoxy-isoflavone	compound	
+isorhamnetin	isorhamnetin	compound	
+kaempferol	kaempferol	compound	
+patchouli alcohol	patchouli alcohol	compound	
+quercetin	quercetin	compound	
+GDF15	GDF15	target	Iron_axis
+HMOX1	HMOX1	target	Iron_axis
+ADRA1A	ADRA1A	target	UNLABELED
+ADRA1B	ADRA1B	target	UNLABELED
+ADRA1D	ADRA1D	target	UNLABELED
+ALAD	ALAD	target	UNLABELED
+AR	AR	target	UNLABELED
+ATM	ATM	target	UNLABELED
+CASP3	CASP3	target	UNLABELED
+CFTR	CFTR	target	UNLABELED
+COASY	COASY	target	UNLABELED
+CYP1A2	CYP1A2	target	UNLABELED
+ERBB2	ERBB2	target	UNLABELED
+ESR2	ESR2	target	UNLABELED
+FOXO3	FOXO3	target	UNLABELED
+MMP2	MMP2	target	UNLABELED
+MMP9	MMP9	target	UNLABELED
+MTHFD2	MTHFD2	target	UNLABELED
+MTHFD2L	MTHFD2L	target	UNLABELED
+MTHFS	MTHFS	target	UNLABELED
+NOS3	NOS3	target	UNLABELED
+NQO1	NQO1	target	UNLABELED
+PANK1	PANK1	target	UNLABELED
+PANK2	PANK2	target	UNLABELED
+PANK3	PANK3	target	UNLABELED
+PPARG	PPARG	target	UNLABELED
+PPCDC	PPCDC	target	UNLABELED
+PPCS	PPCS	target	UNLABELED
+PTK2	PTK2	target	UNLABELED
+RARB	RARB	target	UNLABELED
+SLC6A2	SLC6A2	target	UNLABELED
+SLC6A3	SLC6A3	target	UNLABELED

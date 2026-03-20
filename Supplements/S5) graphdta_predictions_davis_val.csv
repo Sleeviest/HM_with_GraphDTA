@@ -1,0 +1,37 @@
+PubChem_CID,label,gene_symbol,protein_id,Canonical_SMILES,combined_score,axis_tag,pred_davis
+1766,"(6aR,11aR)-3-hydroxy-9,10-dimethoxypterocarpan-3-O-β-D-sambubioside",PPARG,9606.ENSP00000287820,COc1ccc2c(c1OC)OC1c3ccc(OC4OC(CO)C(O)C(O)C4OC4OCC(O)C(O)C4O)cc3OCC21,958,,7.5314302
+4528,patchouli alcohol,SLC6A3,9606.ENSP00000270349,CC1CCC2(O)C(C)(C)C3CCC2(C)C1C3,998,,6.5489626
+4528,patchouli alcohol,SLC6A2,9606.ENSP00000219833,CC1CCC2(O)C(C)(C)C3CCC2(C)C1C3,989,,6.530341
+2545,"10-hydroxy-3,9-dimethoxypterocarpan",MMP2,9606.ENSP00000219070,COc1ccc2c(c1)OCC1C2OC2C(O)C(OC)CCC12,800,,6.03245
+60146,"6''-O-acetyl-(3R)-7,2'-dihydroxy-3',4'-dimethoxyisoflavan-7-O-β-D-glucopyranoside",ADRA1D,9606.ENSP00000368766,COc1ccc(C2COc3cc(OC4OC(COC(C)=O)C(O)C(O)C4O)ccc3C2)c(O)c1OC,998,,5.774562
+60146,"6''-O-acetyl-(3R)-7,2'-dihydroxy-3',4'-dimethoxyisoflavan-7-O-β-D-glucopyranoside",ADRA1A,9606.ENSP00000369960,COc1ccc(C2COc3cc(OC4OC(COC(C)=O)C(O)C(O)C4O)ccc3C2)c(O)c1OC,999,,5.597164
+60146,"6''-O-acetyl-(3R)-7,2'-dihydroxy-3',4'-dimethoxyisoflavan-7-O-β-D-glucopyranoside",ADRA1B,9606.ENSP00000306662,COc1ccc(C2COc3cc(OC4OC(COC(C)=O)C(O)C(O)C4O)ccc3C2)c(O)c1OC,994,,5.531087
+132,quercetin,COASY,9606.ENSP00000464814,O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,972,,5.0238485
+132,quercetin,PANK2,9606.ENSP00000313377,O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,946,,4.950367
+132,quercetin,PANK1,9606.ENSP00000302108,O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,946,,4.936001
+132,quercetin,PANK3,9606.ENSP00000239231,O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,946,,4.9288177
+5280961,"5,7,4'-trihydroxyisoflavone",CYP1A2,9606.ENSP00000342007,O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12,943,,4.912652
+5280961,"5,7,4'-trihydroxyisoflavone",ERBB2,9606.ENSP00000269571,O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12,946,,4.8963294
+1755,"(6aR,11aR)-10-hydroxy-3,9-dimethoxypterocarpan",ALAD,9606.ENSP00000386284,COc1ccc2c(c1)OCC1c3ccc(OC)c(O)c3OC21,959,,4.861537
+5280961,"5,7,4'-trihydroxyisoflavone",PTK2,9606.ENSP00000341189,O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12,943,,4.8593473
+5280961,"5,7,4'-trihydroxyisoflavone",NOS3,9606.ENSP00000297494,O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12,978,,4.839793
+5280961,"5,7,4'-trihydroxyisoflavone",FOXO3,9606.ENSP00000339527,O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12,955,,4.8268294
+60164,"8,3'-dihydroxy-7,4'-dimethoxy-isoflavone",RARB,9606.ENSP00000332296,COc1ccc(-c2coc3c(O)c(OC)ccc3c2=O)cc1O,954,,4.8226304
+5280961,"5,7,4'-trihydroxyisoflavone",MMP9,9606.ENSP00000361405,O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12,948,,4.8224964
+5280961,"5,7,4'-trihydroxyisoflavone",AR,9606.ENSP00000363822,O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12,959,,4.812947
+137,isorhamnetin,ALAD,9606.ENSP00000386284,COc1cc(-c2oc3cc(O)cc(O)c3c(=O)c2O)ccc1O,987,,4.80612
+5280961,"5,7,4'-trihydroxyisoflavone",MMP2,9606.ENSP00000219070,O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12,947,,4.8036094
+5280961,"5,7,4'-trihydroxyisoflavone",CFTR,9606.ENSP00000003084,O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12,961,,4.7906265
+5280961,"5,7,4'-trihydroxyisoflavone",ATM,9606.ENSP00000278616,O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12,942,,4.7878795
+5280961,"5,7,4'-trihydroxyisoflavone",ESR2,9606.ENSP00000343925,O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12,996,,4.751651
+132,quercetin,PPCS,9606.ENSP00000361642,O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,961,,4.742094
+136,kaempferol,MTHFD2,9606.ENSP00000377617,O=c1c(O)c(-c2ccc(O)cc2)oc2cc(O)cc(O)c12,973,,4.728882
+136,kaempferol,MTHFD2L,9606.ENSP00000379108,O=c1c(O)c(-c2ccc(O)cc2)oc2cc(O)cc(O)c12,939,,4.7101007
+5280961,"5,7,4'-trihydroxyisoflavone",PPARG,9606.ENSP00000287820,O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12,964,,4.7093215
+5280961,"5,7,4'-trihydroxyisoflavone",GDF15,9606.ENSP00000252809,O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12,837,Iron_axis,4.5471296
+137,isorhamnetin,HMOX1,9606.ENSP00000216117,COc1cc(-c2oc3cc(O)cc(O)c3c(=O)c2O)ccc1O,861,Iron_axis,4.491257
+5280961,"5,7,4'-trihydroxyisoflavone",HMOX1,9606.ENSP00000216117,O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12,839,Iron_axis,4.465668
+5280961,"5,7,4'-trihydroxyisoflavone",CASP3,9606.ENSP00000311032,O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12,949,,4.415745
+1627,"(3R)-2'-hydroxy-7,3',4'-trimethoxyisoflavan",NQO1,9606.ENSP00000319788,COc1ccc2c(c1)OCC(c1ccc(OC)c(OC)c1O)C2,964,,4.3750615
+132,quercetin,PPCDC,9606.ENSP00000343190,O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,961,,3.8664267
+136,kaempferol,MTHFS,9606.ENSP00000258874,O=c1c(O)c(-c2ccc(O)cc2)oc2cc(O)cc(O)c12,981,,3.7749624
