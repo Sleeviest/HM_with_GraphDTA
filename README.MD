@@ -115,17 +115,17 @@ Environment
 
 OS: Windows 11
 
-Python: 3.10
+Python: 3.12.10
 
-PyTorch: 2.x
+PyTorch: 2.12.0.dev20260223+cu128
 
-PyTorch Geometric: 2.x
+PyTorch Geometric: 2.7.0
 
-RDKit: 2023.09
+RDKit: 2025.09.5
 
-pandas: 2.x
+pandas: 3.0.1
 
-numpy: 1.x
+numpy: 2.3.5
 
 Cytoscape: 3.10.3
 
