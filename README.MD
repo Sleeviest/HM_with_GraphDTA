@@ -167,7 +167,7 @@ Citation
 
 If you use this code or data, please cite:
 
-Kim G, Gyak K, Kwon S.
+Kim G, Gyak K, Lee H, Kwon S.
 Integrating Network Pharmacology and Graph Neural Network–Based Drug–Target Affinity Prediction for Sipjeondaebo-tang.
 License
 
